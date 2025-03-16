@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的网站</title>
+    <title>学生团体魏导师思想宣传队的网站</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>欢迎来到我的网站</h1>
+        <h1>欢迎来到学生团体魏导师思想宣传队的网站</h1>
     </header>
     <main>
         <section class="image-gallery">
             <a href="image1.html" class="image-item">
                 <img src="image1.jpg" alt="图片1">
             </a>
-            <a href="image2.html" class="image-item"<title>我的网站        
+            <a href="image2.html" class="image-item"<title图片2">学生团体魏导师思想宣传队的网站        
                 <img src="image2.jpg" alt="图片2">
             </a>
             </html>                <
