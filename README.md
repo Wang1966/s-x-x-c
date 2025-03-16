@@ -32,7 +32,7 @@
 </body>
 </html>                <
             <a href="image2.html" class="image-item"<title>我的网站</title>              
-                <img src="image3.jpgJPG" alt="图片3">
+                <img src="图像3.jpg.JPG" alt="图片3">
             </a>
         </section>
         <section class="text-area">
