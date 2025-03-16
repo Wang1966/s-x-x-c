@@ -29,7 +29,7 @@
  <p contenteditable="true">欢迎同学们评论和更改或添加文章
 
 </p>
- <p contenteditable="true">联系电话1376223369
+ <p contenteditable="true">联系电话13762233 ＊＊
 联系邮箱wangmomh@outlook.com</p> 
         </section>
     </main>
