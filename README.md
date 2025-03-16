@@ -34,8 +34,8 @@
             </a>
         </section>
         <section class="text-area">
-            <h2>写点什么吧：</h2>
-            <p contenteditable="true">在这里输入你的文字...</p>
+            <h2>紧密地团结在以英明导师魏师为核心的九班班委周围：</h2>
+            <p contenteditable="true">九班最红最红的太阳魏导师...</p>
         </section>
     </main>
     <footer>
