@@ -1,7 +1,47 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的网站</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>欢迎来到我的网站</h1>
+    </header>
+    <main>
+        <section class="image-gallery">
+            <a href="image1.html" class="image-item">
+                <img src="image1.jpg" alt="图片1">
+            </a>
+            <a href="image2.html" class="image-item"<title>我的网站</title>              
+                <img src="image2.jpg" alt="图片2">
+            </a>
+            <a href="image3.html" class="image-item"<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>点击计数器</title>
+</head>
+<body>
+    <button id="myButton">点击我</button>
+    <p>点击次数：<span id="counter">0</span></p>
+    <script src="script.js"></script>
+</body>
+</html>
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+                <img src="image3.jpg" alt="图片3">
+            </a>
+        </section>
+        <section class="text-area">
+            <h2>写点什么吧：</h2>
+            <p contenteditable="true">在这里输入你的文字...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 我的网站</p>
+    </footer>
+</body>
+</html>
