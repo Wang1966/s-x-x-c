@@ -15,7 +15,7 @@
             <a href="image1.html" class="image-item">
                 <img src="image1.jpg" alt="图片1">
             </a>
-            <a href="image2.html" class="image-item"<title>我的网站</title>              
+            <a href="image2.html" class="image-item"<title>我的网站        
                 <img src="image2.jpg" alt="图片2">
             </a>
             <a href="image3.html" class="image-item"<!DOCTYPE html>
@@ -23,7 +23,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>点击计数器</title>
+    点击计数器</title>
 </head>
 <body>
     <button id="myButton">点击我</button>
