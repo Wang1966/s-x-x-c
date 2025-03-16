@@ -30,9 +30,7 @@
     <p>点击次数：<span id="counter">0</span></p>
     <script src="script.js"></script>
 </body>
-</html>
-
-                <img src="image3.jpg" alt="图片3">
+</html>                <img src="image3.jpg" alt="图片3">
             </a>
         </section>
         <section class="text-area">
